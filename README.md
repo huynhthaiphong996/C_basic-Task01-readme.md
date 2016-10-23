@@ -29,9 +29,11 @@ ví dụ ~~nga~~
 ``<space><space>``: sử dụng 2 lần khoảng trắng.  
 
 ### d.Tạo danh sách
-- Danh sách dạng số: cú pháp 1. danh sách
+- Danh sách dạng số: cú pháp 1. danh sách  
+
 1. danh sách 1
-2. danh sách 2
+2. danh sách 2  
+
 - Danh sách dạng bullet: cú pháp - danh sach hoặc * danh sach  
 vd :
  - danh sach 1
@@ -51,12 +53,14 @@ vd : ![ảnh](http://img.hayhaytv.com/film/06062013/tom-and-jerry-pack-1940_3051
 ### g.Tạo bảng
 Các cột được tách nhau bằng dấu ngăn thẳng đứng |  
 header được tách với content bằng dấu gạch ngang -.  
-|       A       |      B        | C     |  
-|------------- |:-------------:| -----:|  
-|    3          |        2      |  1    |  
-|     2         |        4      |   1   |  
-|     a         | b             |    d  |   
 
+|       A       |      B        | C     |
+|--------------:|--------------:|------:|
+|    3          |        2      |  1    |
+|     2         |        4      |   1   |
+|     a         | b             |    d  |
+  
+  
 ### h.Cài đặt Sublime Text
 - Vào trang http://www.sublimetext.com/3 để download 
 - Chạy chương trình: chọn install -> finish
