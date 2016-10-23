@@ -14,7 +14,8 @@
 ### a.Tạo tiêu đề
 - Để tạo tiêu đề trong markdown chỉ cần chèn ký tự # ngay phía trước. số lượng kí tự # sẽ xác định độ sâu của tiêu đề (tương đương từ h1-h6 trong mã HTML)  
 vd: ``# Tiêu đề 1``  
-	# Tiêu đề 1
+	# Tiêu đề 1  
+	
 ### b.Định dạng chữ
 - ``**In đậm**`` hoặc ``__In đậm__``  
 ví dụ (<**họ**>)
